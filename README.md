@@ -30,17 +30,9 @@ O programa deve imprimir a média ponderada com uma casa decimal, formatada conf
 
 ### Exemplo de Entrada e Saída
 
-| Exemplo de Entrada | Exemplo de Saída |
-|--------------------|------------------|
-| 5.0                | MEDIA = 6.3      |
-| 6.0                |                  |
-| 7.0                |                  |
-|--------------------|------------------|
-| 5.0                | MEDIA = 9.0      |
-| 10.0               |                  |
-| 10.0               |                  |
-|--------------------|------------------|
-| 10.0               | MEDIA = 7.5      |
-| 10.0               |                  |
-| 5.0                |                  |
+| Exemplo de Entrada | Exemplo de Saída|
+| ---|--- |
+| 5.0<br />6.0<br />7.0 | MEDIA = 6.3 |
+| 5.0<br />10.0<br />10.0 | MEDIA = 9.0 |
+| 10.0<br />10.0<br />5.0 | MEDIA = 7.5 |
 
